@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<country code="86" value="中国">
+	<province value="云南">
+		<city value="昆明" point="102.710002,25.046272"></city>
+		<city value="楚雄" point="101.552091,25.038991"></city>
+		<city value="大理" point="100.236467,25.597747"></city>
+		<city value="富民" point="102.724936,25.061057"></city>
+		<city value="个旧" point="103.166554,23.36483"></city>
+		<city value="剑川" point="99.905498,26.536922"></city>
+		<city value="陆良" point="103.673262,25.035647"></city>
+		<city value="罗平" point="104.310185,24.892202"></city>
+		<city value="弥渡" point="100.497897,25.349387"></city>
+		<city value="曲靖" point="103.803236,25.51215"></city>
+		<city value="寻甸" point="103.263192,25.563889"></city>
+		<city value="玉溪" point="102.54938,24.357412"></city>
+	</province>
+
+	<province value="广东">
+		<city value="深圳" point="114.060469,22.528162"></city>
+		<city value="惠州" point="114.423881,23.098382"></city>
+		<city value="东莞" point="113.754235,23.027326"></city>
+		<city value="中山" point="113.391015,22.52141"></city>
+		<city value="肇庆" point="112.469592,23.053526"></city>
+		<city value="顺德" point="113.300479,22.810818"></city>
+		<city value="佛山" point="113.127127,23.028576"></city>
+		<city value="连州" point="112.187075,24.259666"></city>
+		<city value="英德" point="113.421623,24.192261"></city>
+		<city value="三水" point="112.040456,24.55484"></city>
+		<city value="乐昌" point="113.354037,25.135832"></city>
+		<city value="化州" point="110.645978,21.670261"></city>
+		<city value="清远" point="113.063482,23.687747"></city>
+		<city value="茂名" point="110.930095,21.669435"></city>
+		<city value="从化" point="113.558247,23.617741"></city>
+		<city value="普宁" point="116.172138,23.303699"></city>
+		<city value="梅州" point="116.126403,24.294164"></city>
+		<city value="韶关" point="113.599635,24.815948"></city>
+		<city value="增城" point="113.817447,23.266619"></city>
+		<city value="花都" point="113.228224,23.409788"></city>
+		<city value="河源" point="114.700498,23.752753"></city>
+	</province>
+	
+	<province value="广西">
+		<city value="柳州" point="109.418378,24.331951"></city>
+		<city value="南宁" point="108.32713,22.821151"></city>
+		<city value="梧州" point="111.283913,23.482876"></city>
+		<city value="宜州" point="108.281836,24.264509"></city>
+		<city value="玉林" point="110.171079,22.64284"></city>
+	</province>
+	
+	<province value="江西">
+		<city value="南昌" point="115.923424,28.679184"></city>
+		<city value="都昌" point="116.210566,29.27904"></city>
+		<city value="赣州" point="114.941658,25.844646"></city>
+		<city value="于都" point="115.420931,25.958214"></city>
+	</province>
+	
+	<province value="浙江">
+		<city value="义乌" point="120.081273,29.31132"></city>
+		<city value="杭州" point="120.156709,30.279955"></city>
+	</province>
+	
+	<province value="湖北">
+		<city value="武汉" point="114.3139,30.600731"></city>
+	</province>
+	
+	<province value="湖南">
+		<city value="娄底" point="112.014506,27.726109"></city>
+		<city value="浏阳" point="113.017269,28.233272"></city>
+	</province>
+
+	<province value="四川">
+		<city value="成都" point="104.069648,30.6623"></city>
+		<city value="内江" point="105.074493,29.600341"></city>
+		<city value="攀枝花" point="101.724579,26.588799"></city>
+		<city value="宜宾" point="104.64078,28.763722"></city>
+		<city value="南充" point="106.088594,30.804315"></city>
+	</province>
+	
+	<province value="贵州">
+		<city value="都匀" point="107.525247,26.265741"></city>
+	</province>
+	
+	<province value="河北">
+		<city value="邯郸" point="114.500516,36.621474"></city>
+		<city value="廊坊" point="116.715675,39.533638"></city>
+	</province>
+	
+	<province value="河南">
+		<city value="信阳" point="114.076292,32.12846"></city>
+	</province>
+	
+	<province value="陕西">
+		<city value="宝鸡" point="107.24136,34.366703"></city>
+	</province>
+	
+	<province value="山西">
+		<city value="临汾" point="111.523553,36.094029"></city>
+		<city value="晋中" point="112.756624,37.691192"></city>
+		<city value="祁县" point="112.339423,37.364625"></city>
+	</province>
+	
+	<province value="甘肃">
+		<city value="酒泉" point="98.500941,39.738478"></city>
+	</province>
+	
+	<province value="新疆">
+		<city value="乌鲁木齐" point="87.626504,43.83393"></city>
+		<city value="哈密" point="87.598166,43.812022"></city>
+	</province>
+	
+	<province value="吉林">
+		<city value="延吉" point="129.52018,42.912795"></city>
+	</province>
+	
+	<province value="辽宁">
+		<city value="丹东" point="124.391435,40.128361"></city>
+	</province>
+	
+	<province value="青海">
+		<city value="西宁" point="101.781719,36.625216"></city>
+	</province>
+	
+	<province value="上海">
+		<city value="川沙" point="121.704249,31.199417"></city>
+	</province>
+	
+	<province value="海南">
+		<city value="海口" point="110.335689,20.026418"></city>
+	</province>
+	
+	<province value="江苏">
+		<city value="常州" point="119.979561,31.819765"></city>
+		<city value="苏州" point="120.584262,31.303919"></city>
+		<city value="昆山" point="120.98363,31.391348"></city>
+	</province>
+
+	<province value="安徽">
+		<city value="合肥" point="117.287873,31.867678"></city>
+		<city value="滁州" point="118.324857,32.308196"></city>
+		<city value="芜湖" point="118.382958,31.329259"></city>
+	</province>
+</country>

@@ -1,0 +1,92 @@
+#jpreOverlay {
+	background: #81d8cf;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 99;
+}
+#jpreSlide{
+	font-size:22px;
+	font-weight:700;
+	color:#ccc;
+	text-align:center;
+	width:50%;
+	height:30%;
+}
+#jpreLoader{
+	width:52%;
+	height:7px;
+	margin-top: 50px;
+	border: 1px solid #fff;
+	padding: 1px;
+}
+#jpreBar {
+	background-color: #fff;
+}
+#jprePercentage {
+	color:#fff;
+	font-family:"denseregular";
+	text-align:right;
+	top:-30px;
+	position: relative;
+	width: 0;
+	line-height: 20px;
+	font-size: 20px;
+}
+
+#jpreButton{
+	padding:3px 10px;
+	cursor:pointer;
+	line-height:1;
+	text-align:center;
+	font-family: "denseregular";
+	font-size: 18px;
+	color:#fff;
+	position: fixed;
+	right: 20px;
+	top: 20px;
+}
+#jpreButton:hover{ font-size: 20px; text-shadow: 1px 1px 2px #000; }
+
+@-webkit-keyframes progress {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -60px -60px;
+  }
+}
+@-moz-keyframes progress {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -60px -60px;
+  }
+}
+@-ms-keyframes progress {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -60px -60px;
+  }
+}
+@-o-keyframes progress {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -60px -60px;
+  }
+}
+@keyframes progress {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -60px -60px;
+  }
+}
